@@ -2,11 +2,11 @@
 Este repositório tem como objetivo reunir soluções desenvolvidas em ambientes de programação competitiva, bem como servir como base de estudo e referência para algoritmos e estruturas de dados amplamente utilizados na área.
 
 Conteúdo disponível:
-✅ Soluções comentadas de problemas de plataformas como Codeforces.
+✅ Soluções comentadas de problemas de plataformas como Codeforces e Leetcode.
 
 🧩 Implementações de algoritmos clássicos, com foco em clareza, eficiência e reutilização.
 
-📂 Organização por temas, incluindo técnicas de busca, programação dinâmica, grafos, teoria dos números, entre outros.
+📂 Organização por sites, incluindo técnicas de busca, programação dinâmica, grafos, teoria dos números, entre outros.
 
 ⚙️ Templates e snippets otimizados para uso em competições de tempo limitado.
 
